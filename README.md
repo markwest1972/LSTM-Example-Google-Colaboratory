@@ -1,2 +1,2 @@
-# RNN-Example-Google-Colaboratory
-Google Colab Notebook containing RNN/LSTM and IMDB Reviews Example
+# LSTM-Example-Google-Colaboratory
+Google Colab Notebook containing LSTM and IMDB Reviews Example
