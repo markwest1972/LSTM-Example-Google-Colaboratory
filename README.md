@@ -1,5 +1,5 @@
 # LSTM-Example-Google-Colaboratory
-Google Colab Notebook containing LSTM and IMDB Reviews Example
+Google Colab Notebook containing LSTM and IMDB Reviews Example from [this blogpost](https://www.bouvet.no/bouvet-deler/explaining-recurrent-neural-networks). 
 
 ## Opening the Notebook in Google Colab
 
