@@ -9,4 +9,4 @@ The Notebook will be opened in playground mode, so feel free to change things ar
 
 ## Viewing the Notebook in GitHub
 
-Occasionally GitHub struggles with rendering Jupyter Notebooks. This is an intermittent problem on GitHubs side. If this occurs, just open the Notebook in Google Colab as explained above.
+Occasionally GitHub struggles with rendering Jupyter Notebooks. This would seem to be an intermittent problem on GitHub's side. If this occurs, just open the Notebook in Google Colab as explained above.
