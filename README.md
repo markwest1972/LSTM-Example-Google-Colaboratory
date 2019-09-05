@@ -1,8 +1,12 @@
 # LSTM-Example-Google-Colaboratory
 Google Colab Notebook containing LSTM and IMDB Reviews Example
 
-## How to use
+## Opening the Notebook in Google Colab
 
-1. Open the notebook in Github.
-2. Click the "Open in Colab" button at the top of the notebook file.
-3. The notebook will be opened in playground mode in Google Colab. Enjoy!
+Open the Notebook in Google Colab by clicking this link: https://colab.research.google.com/github/markwest1972/LSTM-Example-Google-Colaboratory/blob/master/LSTM_IMDB_Sentiment_Example.ipynb.
+
+The Notebook will be opened in playground mode, so feel free to change things around and have fun!
+
+## Viewing the Notebook in GitHub
+
+Occasionally GitHub struggles with rendering Jupyter Notebooks. This is an intermittent problem on GitHubs side. If this occurs, just open the Notebook in Google Colab as explained above.
